@@ -1,0 +1,102 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "卡友小蜜"
+			}
+		},
+		{
+			"path": "pages/launchPage/launchPage",
+			"style": {
+				"app-plus": {
+					"titleNView":false
+				}
+			}
+		},
+		{
+			"path": "pages/launchPage/loginPage",
+			"style": {
+				"navigationBarTitleText": "手机号登录"
+			}
+		},
+		{
+			"path": "pages/agreement/agreement",
+			"style": {
+				"navigationBarTitleText": "用户服务协议"
+			}
+		},
+		{
+			"path": "pages/agreement/policy",
+			"style": {
+				"navigationBarTitleText": "副卡优惠政策"
+			}
+		},
+		{
+			"path": "pages/bindCard/appeal",
+			"style": {
+				"navigationBarTitleText": "提交申诉"
+			}
+		},
+		{
+			"path": "pages/bindCard/bindAlert",
+			"style": {
+				"navigationBarTitleText": "绑定副卡"
+			}
+		},
+		{
+			"path": "pages/bindCard/bindCard",
+			"style": {
+				"navigationBarTitleText": "绑定副卡"
+			}
+		},
+		{
+			"path": "pages/bindCard/bindFail",
+			"style": {
+				"navigationBarTitleText": "绑定副卡"
+			}
+		},
+		{
+			"path": "pages/bindCard/bindSuccess",
+			"style": {
+				"navigationBarTitleText": "绑定副卡"
+			}
+		},
+		{
+			"path": "pages/bonus/bonus",
+			"style": {
+				"navigationBarTitleText": "我的奖金"
+			}
+		},
+		{
+			"path": "pages/bonus/requestWithdraw",
+			"style": {
+				"navigationBarTitleText": "申请提现"
+			}
+		},
+		{
+			"path": "pages/message/message",
+			"style": {
+				"navigationBarTitleText": "消息"
+			}
+		},
+		{
+			"path": "pages/oilList/oilList",
+			"style": {
+				"navigationBarTitleText": "加油记录"
+			}
+		},
+		{
+			"path": "pages/subCard/subCard",
+			"style": {
+				"navigationBarTitleText": "我的副卡"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#0A98D5",
+		"backgroundColor": "#FFFFFF"
+	}
+}
