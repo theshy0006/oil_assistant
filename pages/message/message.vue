@@ -29,7 +29,7 @@
 	import {
 		mapState
 	} from 'vuex'
-	import mediaItem from '../index/expense-item.vue';
+	import mediaItem from '../index/message-item.vue';
 	export default {
 		computed: mapState(['token', 'phone', 'userName']),
 		components: {

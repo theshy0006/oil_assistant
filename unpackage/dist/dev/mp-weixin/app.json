@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/launchPage/launchPage",
+    "pages/launchPage/loginPage",
+    "pages/agreement/agreement",
+    "pages/agreement/policy",
+    "pages/bindCard/appeal",
+    "pages/bindCard/bindAlert",
+    "pages/bindCard/bindCard",
+    "pages/bindCard/bindFail",
+    "pages/bindCard/bindSuccess",
+    "pages/bonus/bonus",
+    "pages/bonus/requestWithdraw",
+    "pages/message/message",
+    "pages/oilList/oilList",
+    "pages/subCard/subCard",
+    "pages/index/message-item",
+    "pages/index/gas-item"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#0A98D5",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

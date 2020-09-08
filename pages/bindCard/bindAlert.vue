@@ -19,6 +19,7 @@
 	export default {
 		data() {
 			return {
+				hasSetBg: false,
 				money: "0.00",
                 cardNo: "",
 			};
@@ -26,6 +27,10 @@
         onLoad: function (option) {
             console.log(option.cardNo); //打印出上个页面传递的参数。
             this.cardNo = option.cardNo
+			uni.setNavigationBarColor({
+			frontColor: this.hasSetBg ? "#000000" : "#ffffff",
+			backgroundColor:"linear-gradient(to right,#E12C08,#FCCB00)"
+			})
         },
 		methods: {
 			gotoBack() {

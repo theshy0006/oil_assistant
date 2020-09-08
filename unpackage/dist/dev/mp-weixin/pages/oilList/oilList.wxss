@@ -1,0 +1,40 @@
+
+swiper.data-v-0742cfb0 {
+    width: 100%;
+    height: 100vh;
+}
+.badge.data-v-0742cfb0 {
+    background-color: #007AFF;
+}
+.line-h.data-v-0742cfb0 {
+    height: 1rpx;
+    background-color: #cccccc;
+}
+.empty.data-v-0742cfb0 {
+    height: 400rpx;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+            justify-content: space-between;
+}
+.emptyImg.data-v-0742cfb0 {
+    margin-top: 20px;
+    width: 106px;
+    height: 112px;
+}
+.emptyLabel.data-v-0742cfb0 {
+    margin-top: 20px;
+    text-align: center;
+    color: #999999;
+}
+
+

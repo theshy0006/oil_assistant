@@ -1,11 +1,6 @@
 <template>
 	<view>
-		<view>
-			<cu-custom bgColor="bg-gradual-blue" :isBack="true">
-		        <block slot="backText">返回</block>
-		        <block slot="content"><view class="topFont">副卡优惠政策</view></block>
-		    </cu-custom>
-			
+		<view>		
 			<view class="flex solid-bottom padding justify-around">
 				<view class="bg-grey padding-sm margin-xs radius">消费领奖金</view>
 				<view class="bg-grey padding-sm margin-xs radius">加油领好礼</view>

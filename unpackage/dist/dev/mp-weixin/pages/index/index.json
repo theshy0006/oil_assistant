@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "卡友小蜜",
+  "usingComponents": {
+    "media-item": "/pages/index/oil-item"
+  }
+}

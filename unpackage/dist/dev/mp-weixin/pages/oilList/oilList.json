@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "加油记录",
+  "usingComponents": {
+    "media-item": "/pages/index/card-item"
+  }
+}
